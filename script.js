@@ -28,4 +28,4 @@ function maratonaKenzie(firstPlace, secondPlace, lastPlace) {
 //mesmo a posição dele sendo trocada nos parâmetros da função sendo chamada ele seria trocado de posição pelas condicionais
 
 maratonaKenzie('Marco', 'Bruno', 'Daniel');
-console.log("Neste momento da corrida Daniel esta em primeiro por causa de seu bonus de competidor")
+console.log("Neste momento da corrida Daniel esta em primeiro por causa de seu bonus de competidor!")
